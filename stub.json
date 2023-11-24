@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"I want to create an app that automatically pushes code to a GitHub repository.","md5":"b7cc26446688d77b1bfc93c5d823810b"}]}
